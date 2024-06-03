@@ -19,3 +19,5 @@
    public void przypomnienieHasla() {
         System.out.println("Kliknij przypomnij Haslo");
     }
+
+    Hello Word
